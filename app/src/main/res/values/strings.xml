@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyTiKet</string>
+    <string name="login_title">Connexion</string>
+    <string name="edit_pseudo">Votre pseudo</string>
+    <string name="edit_password">Votre mot de passe</string>
+    <string name="btn_login">SE CONNECTER</string>
+    <string name="text_newMember">Pas encore membre? Enregistrez vous</string>
+    <string name="user_edit_profile">Mon profile</string>
+    <string name="user_edit_password">Modifier mot de passe</string>
+    <string name="user_view_order">Mes commandes</string>
+    <string name="user_logout">Déconnexion</string>
+    <string name="user_username">Nom d\'utilisateur</string>
+    <string name="user_mail">E-mail</string>
+    <string name="user_password">Votre mot de passe actuel</string>
+    <string name="user_new_password">Votre nouveau mot de passe</string>
+    <string name="user_confirm_new_password">Confirmation de votre nouveau mot de passe</string>
+    <string name="user_btn_update">Mettre à jour</string>
+    <string name="user_btn_cancel">Annuler</string>
+
+    <!--DIALOG SHOW-->
+    <string name="string_authentification_title">AUTHENTIFICATION</string>
+    <string name="string_profile_title">RECUPERATION DU PROFILE</string>
+    <string name="string_profile_edit_title">MODIFICATION DU PROFILE</string>
+    <string name="string_profile_password_title">MODIFICATION DU MOT DE PASSE</string>
+    <string name="string_profile_order_title">RECUPERATION DES COMMANDES</string>
+    <string name="string_profile_ticket_title">RECUPERATION DES TICKETS</string>
+    <string name="string_waiting_message">Veuillez patientez ...</string>
+
+</resources>
